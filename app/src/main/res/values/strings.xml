@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Colors button</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <string name="blue">Синий</string>
+
+</resources>
